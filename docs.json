@@ -74,8 +74,8 @@
     }
   },
   "logo": {
-    "light": "/logo/HBLogo.png",
-    "dark": "/logo/HBLogo.png"
+    "light": "/logo/Hyperblogicon.svg",
+    "dark": "/logo/Hyperblogicon.svg"
   },
   "navbar": {
     "links": [
