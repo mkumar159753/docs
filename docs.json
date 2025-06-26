@@ -24,6 +24,13 @@
             ]
           },
           {
+            "group": "Creating & Managing Content",
+            "pages": [
+              "CreatingPublishingYourFirstBlogPost",
+              "SchedulingPostsandManagingDrafts"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
