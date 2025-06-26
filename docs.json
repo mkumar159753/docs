@@ -16,9 +16,11 @@
           {
             "group": "Get Started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "introduction",
+              "HowtoSignUpandLogIn",
+              "SettingUpYourSite",
+              "DashboardOverview",
+              "InvitingTeamMembersManagingRoles"
             ]
           },
           {
