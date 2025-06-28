@@ -54,6 +54,12 @@
             "pages": [
               "MigratingfromOtherCMSWordPressGhostSuperblogMore"
             ]
+          },
+          {
+            "group": "Billing & Plans",
+            "pages":[
+              "UnderstandingPlansAICreditLimits"
+            ]
           }
         ]
       }
