@@ -1,0 +1,57 @@
+---
+title: "Connecting Analytics, Search Console & Tracking Tools in HyperBlog"
+---
+
+HyperBlog makes it simple to integrate essential tools like **Google Analytics (GA4)**, **Google Search Console**, **chat widgets**, **tracking pixels**, and **custom scripts** — all without needing a developer.
+
+### **Where to Set It Up**
+
+Go to your **HyperBlog Dashboard** → **Settings** → **SEO Settings**. Here, you’ll find all the integration options neatly organized.
+
+![SEO Settings Pn](/images/SEO-settings.png)
+
+### **Google Analytics (GA4)**
+
+- Add your **Google Analytics ID** to track your site’s traffic and performance.
+- Once entered, HyperBlog will automatically trigger a **cookie consent popup** for GDPR compliance.
+
+### **Google Search Console**
+
+1. Go to Google Search Console.
+2. Add a new property (your domain or URL).
+3. Choose **HTML tag verification method**.
+
+Copy the \<meta\> tag provided by Google (something like this):\
+\<meta name="google-site-verification" content="your-verification-code" /\>
+
+4. Go to **HyperBlog → Settings → SEO Settings → Head Scripts**.
+5. Paste the entire \<meta\> tag there.
+6. Click **Save** and go back to Google Search Console to **Verify**.
+
+Once verified, your ownership will be confirmed, and your site will be eligible for indexing and performance reporting.
+
+### **Adding Chat, Pixels & Custom Tracking Scripts**
+
+You can easily embed third-party tools like:
+
+- [**Tawk.to**](http://Tawk.to)** / Crisp chat**
+- **Meta Pixel (Facebook)**
+- **LinkedIn Insight Tag**
+- **Google Tag Manager**
+- Or any other JS-based tool
+
+Use these fields:
+
+- **Miscellaneous Scripts** – Adds code **site-wide**, ideal for chat widgets or pixel codes.
+- **Head Scripts** – Inserts scripts directly in the \<head\>, perfect for SEO or tracking verification.
+
+![Seo Settings Add Css Pn](/images/seo-settings-add-css.png)
+
+### **Other SEO Settings You Can Configure**
+
+- **Google AdSense Publisher ID**: (for Auto Ads only)
+- **AdSense ads.txt**: Paste your required ads.txt file here.
+- **Enable Default Cookie Popup**: Automatically display a GDPR-compliant cookie banner.
+- **Privacy Policy URL**: Link users to your privacy policy from the cookie popup.
+
+With HyperBlog, you don’t need to modify theme files or use third-party plugins to add analytics or tracking tools. Just go to your **SEO Settings**, paste your code, and it’s live. It’s fast, flexible, and built for creators who want full control without technical hassle.
