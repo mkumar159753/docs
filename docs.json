@@ -39,8 +39,8 @@
   },
       
   "logo": {
-    "light": "/images/Hyperblogicon.svg",
-    "dark": "/images/Hyperblogicon.svg"
+    "light": "/images/Hyperbloglogo.png",
+    "dark": "/images/Hyperbloglogo.png"
   },
       
   "navbar": {
