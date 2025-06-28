@@ -42,6 +42,18 @@
               "OptimizingBlogPostswithHyperBlogsBuilt-InSEOBar",
               "CoreWebVitalsPerformanceBuiltwithNext.js"
             ]
+          },
+          {
+            "group": "Integrations",
+            "pages":[
+              "ConnectingAnalyticsSearchConsoleTrackingToolsinHyperBlog"
+            ]
+          },
+          {
+            "group": "Migration",
+            "pages": [
+              "MigratingfromOtherCMSWordPressGhostSuperblogMore"
+            ]
           }
         ]
       }
