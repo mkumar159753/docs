@@ -51,8 +51,8 @@
   },
       
   "logo": {
-    "light": "/images/hyperblognewlogo.png",
-    "dark": "/images/hyperblognewlogo.png"
+    "light": "/images/hbnewlogo.png",
+    "dark": "/images/hbnewlogo.png"
   },
       
   "navbar": {
