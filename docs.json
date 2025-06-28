@@ -27,7 +27,12 @@
             "group": "Creating & Managing Content",
             "pages": [
               "CreatingPublishingYourFirstBlogPost",
-              "SchedulingPostsandManagingDrafts"
+              "SchedulingPostsandManagingDrafts",
+              "UsingAItoAuto-GenerateImages",
+              "Auto-GenerateInfographicsfromYourBlogContentinHyperblog",
+              "Auto-GenerateInteractivePollswithHyperblog",
+              "AutomaticallyCreateIntentBasedLeadCapturesinHyperblog",
+              "ManagingCategoriesTagsinHyperblog"
             ]
           }
         ]
