@@ -17,49 +17,49 @@
             "group": "Get Started",
             "pages": [
               "introduction",
-              "HowtoSignUpandLogIn",
-              "SettingUpYourSite",
-              "DashboardOverview",
-              "InvitingTeamMembersManagingRoles"
+              "how-to-sign-up-and-log-in",
+              "setting-up-your-site",
+              "dashboard-overview",
+              "inviting-team-members-managing-roles"
             ]
           },
           {
             "group": "Creating & Managing Content",
             "pages": [
-              "CreatingPublishingYourFirstBlogPost",
-              "SchedulingPostsandManagingDrafts",
-              "UsingAItoAuto-GenerateImages",
-              "Auto-GenerateInfographicsfromYourBlogContentinHyperblog",
-              "Auto-GenerateInteractivePollswithHyperblog",
-              "AutomaticallyCreateIntentBasedLeadCapturesinHyperblog",
-              "ManagingCategoriesTagsinHyperblog"
+              "creating-publishing-your-first-blog-post",
+              "scheduling-posts-and-managing-drafts",
+              "using-ai-to-auto-generate-images",
+              "auto-generate-infographics-from-your-blog-content-in-hyperblog",
+              "auto-generate-interactive-polls-with-hyperblog",
+              "automatically-create-intent-based-lead-captures-in-hyperblog",
+              "managing-categories-tags-in-hyperblog"
             ]
           },
           {
             "group": "SEO Optimization",
             "pages":[
-              "OverviewofSEOFeaturesinHyperBlog",
-              "OptimizingBlogPostswithHyperBlogsBuilt-InSEOBar",
-              "CoreWebVitalsPerformanceBuiltwithNext.js"
+              "overview-of-seo-features-in-hyperblog",
+              "optimizing-blog-posts-with-hyperblog-built-in-seo-bar",
+              "core-web-vitals-performance-built-with-next-js"
             ]
           },
           {
             "group": "Integrations",
             "pages":[
-              "ConnectingGoogleAnalyticsGA4SearchConsoleTrackingToolsinHyperBlog"
+              "connecting-google-analytics-search-console-tracking-tools-in-hyperblog"
             ]
           },
           {
             "group": "Migration",
             "pages": [
-              "MigratingfromOtherCMSWordPressGhostSuperblogMore"
+              "migrating-from-other-cms"
             ]
           },
           {
             "group": "Billing & Plans",
             "pages":[
-              "UnderstandingPlansAICreditLimits",
-              "CancellingYourHyperBlogSubscription"
+              "understanding-plans-ai-credit-limits",
+              "cancelling-your-hyperblog-subscription"
             ]
           }
         ]
