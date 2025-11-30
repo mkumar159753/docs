@@ -90,7 +90,8 @@
   },
   "footer": {
     "socials": {
-      "linkedin": "https://www.linkedin.com/company/hyperblog/"
+      "linkedin": "https://www.linkedin.com/company/hyperblog/",
+      "youtube" : "https://www.youtube.com/@hyperblog_io"
     }
   }
 }
