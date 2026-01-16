@@ -37,7 +37,7 @@
           },
           {
             "group": "SEO Optimization",
-            "pages":[
+            "pages": [
               "overview-of-seo-features-in-hyperblog",
               "optimizing-blog-posts-with-hyperblog-built-in-seo-bar",
               "core-web-vitals-performance-built-with-next-js"
@@ -45,7 +45,7 @@
           },
           {
             "group": "Integrations",
-            "pages":[
+            "pages": [
               "connecting-google-analytics-search-console-tracking-tools-in-hyperblog"
             ]
           },
@@ -57,17 +57,14 @@
           },
           {
             "group": "Billing & Plans",
-            "pages":[
+            "pages": [
               "understanding-plans-ai-credit-limits",
               "cancelling-your-hyperblog-subscription"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      
-    }
+    ]
   },
       
   "logo": {
